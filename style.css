@@ -1,0 +1,108 @@
+body{
+  background-color: Black;
+  background-image: url(IMG_6167.jpg);
+  background-size: cover;
+  color:White;
+  font-family:courier;
+  text-align: center;
+}
+#name{
+  color:Black;
+  font-size: 40px;
+  font-family: courier;
+  text-align: left;
+  margin-left: 100px;
+  margin-right: 0px;
+  float:left;
+  display: inline;
+  padding-top: 33px;
+  }
+#photo{
+  width: 400px;
+  transform: rotate(0.5turn);
+  border:5px;
+  border-style: solid;
+  border-color: Black;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top:20px;
+  display: block;
+}
+#title{
+  font-family: fantasy;
+  font-size: 20px;
+  color:black;
+}
+.list{
+  color:black;
+}
+.navi{
+    list-style-type: none;
+    margin:0px;
+    overflow:hidden;
+    margin-right: 100px;
+
+}
+.bar{
+  font-size: 20px;
+  display: inline;
+  float:right;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  margin-right: 30px;
+  color:black;
+}
+.active{
+
+  color:black;
+}
+a{
+  color:black;
+}
+.pTitle{
+  color:black;
+  text-align: left;
+  margin-left: 300px;
+  text-decoration: underline;
+}
+p{
+  color: black;
+  text-align: left;
+  margin-left: 100px;
+  margin-right:100px;
+  float:right;
+  border: solid;
+  background: solid;
+  border-color: grey;
+  display: inline;
+    background-color: grey;
+    box-shadow: grey;
+    position: relative;
+    left: 1em;
+
+}
+p span{
+  background-color: grey;
+  box-decoration-break: clone;
+}
+#photo2{
+  width: 400px;
+  border:5px;
+  border-style: solid;
+  border-color: Black;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top:20px;
+  display: block;
+}
+#clickbait{
+background-color: black;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+#gregGif{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
